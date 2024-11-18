@@ -1,0 +1,32 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "/files/bike.jpeg",
+  "make": "Test",
+  "modified": "2024-11-18 16:29:48.654917",
+  "name": "Motar Bike",
+  "price_per_km": 70.0,
+  "type": "Gear"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "/files/bike2.jpeg",
+  "make": "Test",
+  "modified": "2024-11-18 16:30:25.721904",
+  "name": "BMW",
+  "price_per_km": 50.0,
+  "type": "Gear"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "/files/bike3.jpeg",
+  "make": "For long",
+  "modified": "2024-11-18 16:31:02.847630",
+  "name": "BIke 3",
+  "price_per_km": 30.0,
+  "type": "Test"
+ }
+]

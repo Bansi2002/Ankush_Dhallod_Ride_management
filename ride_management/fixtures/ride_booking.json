@@ -1,0 +1,101 @@
+[
+ {
+  "booking_date": "2024-11-18",
+  "customer": "Anil Verma",
+  "customer_name": "Anil Verma",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimated_km": 10.0,
+  "make": "For long",
+  "modified": "2024-11-18 16:54:34.681597",
+  "name": "BIke 3.24.0001",
+  "phone_number": "9876541234",
+  "price": 30.0,
+  "return_date": "2024-11-19",
+  "ride_add_on": [
+   {
+    "amount": 1500.0,
+    "parent": "BIke 3.24.0001",
+    "parentfield": "ride_add_on",
+    "parenttype": "Ride Booking",
+    "service": "Tourist Guides"
+   },
+   {
+    "amount": 1000.0,
+    "parent": "BIke 3.24.0001",
+    "parentfield": "ride_add_on",
+    "parenttype": "Ride Booking",
+    "service": "Travel Insurance"
+   }
+  ],
+  "total_amount": 2800.0,
+  "type": "Test",
+  "vehicle": "BIke 3"
+ },
+ {
+  "booking_date": "2024-11-20",
+  "customer": "Murli Mathur",
+  "customer_name": "Murli Mathur",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimated_km": 1000.0,
+  "make": "Test",
+  "modified": "2024-11-18 16:55:16.449987",
+  "name": "BMW.24.0002",
+  "phone_number": null,
+  "price": 50.0,
+  "return_date": "2024-11-30",
+  "ride_add_on": [
+   {
+    "amount": 500.0,
+    "parent": "BMW.24.0002",
+    "parentfield": "ride_add_on",
+    "parenttype": "Ride Booking",
+    "service": "Wi-Fi Access"
+   }
+  ],
+  "total_amount": 50500.0,
+  "type": "Gear",
+  "vehicle": "BMW"
+ },
+ {
+  "booking_date": "2024-11-01",
+  "customer": "Anil Verma",
+  "customer_name": "Anil Verma",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimated_km": 500.0,
+  "make": "Test",
+  "modified": "2024-11-18 16:57:41.754239",
+  "name": "Motar Bike.24.0003",
+  "phone_number": "9876541234",
+  "price": 70.0,
+  "return_date": "2024-11-30",
+  "ride_add_on": [
+   {
+    "amount": 1500.0,
+    "parent": "Motar Bike.24.0003",
+    "parentfield": "ride_add_on",
+    "parenttype": "Ride Booking",
+    "service": "Tourist Guides"
+   },
+   {
+    "amount": 1000.0,
+    "parent": "Motar Bike.24.0003",
+    "parentfield": "ride_add_on",
+    "parenttype": "Ride Booking",
+    "service": "Travel Insurance"
+   },
+   {
+    "amount": 500.0,
+    "parent": "Motar Bike.24.0003",
+    "parentfield": "ride_add_on",
+    "parenttype": "Ride Booking",
+    "service": "Wi-Fi Access"
+   }
+  ],
+  "total_amount": 38000.0,
+  "type": "Gear",
+  "vehicle": "Motar Bike"
+ }
+]
